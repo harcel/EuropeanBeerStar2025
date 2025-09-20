@@ -1,0 +1,223 @@
+Category;Award;Brewery;Country;Beer;Website;Style Origin
+GERMAN-STYLE LEICHTBIER;GOLD;GIUSTOSPIRITO;Italy;2PUNTO5;www.giustospirito.com;Central European
+GERMAN-STYLE LEICHTBIER;SILVER;Hochdorfer Kronenbrauerei;Germany;Hochdorfer Hopfenleicht;www.hochdorfer.de;Central European
+GERMAN-STYLE LEICHTBIER;BRONZE;Private Landbrauerei Schönram;Germany;Schönramer Surtaler Schankbier;www.schoenramer.de;Central European
+GERMAN-STYLE PILSNER;GOLD;Private Landbrauerei Schönram;Germany;Schönramer Pils;www.schoenramer.de;Central European
+GERMAN-STYLE PILSNER;SILVER;Distelhäuser Brauerei Ernst Bauer;Germany;Distelhäuser Pils;www.distelhaeuser.de;Central European
+GERMAN-STYLE PILSNER;BRONZE;Schlossbrauerei Autenried;Germany;Autenrieder Pilsner;www.autenrieder.de;Central European
+BOHEMIAN-STYLE PALE LAGER;GOLD;MOVA Brewing Company;Ukraine;MOVA Pilsner;www.mova.beer;Central European
+BOHEMIAN-STYLE PALE LAGER;SILVER;Fifty Fifty Brewing Company;USA;Tahoe Pilz;www.fiftyfiftybrewing.com;Central European
+BOHEMIAN-STYLE PALE LAGER;BRONZE;PRIMÁTOR;Czech Republic;PRIMÁTOR Premium;www.primator.cz;Central European
+BOHEMIAN-STYLE SESSION LAGER;GOLD;Pivovar Tišnov;Czech Republic;Tišnovanka 11%;www.pivovartisnov.cz;Central European
+BOHEMIAN-STYLE SESSION LAGER;SILVER;Plzensky Prazdroj;Czech Republic;Velkopopovický Kozel 11;www.prazdroj.cz;Central European
+BOHEMIAN-STYLE SESSION LAGER;BRONZE;Pivovar Samson;Czech Republic;Samson 1795 - Svetle Vycepni Original Czech;www.samson.cz;Central European
+GERMAN-STYLE MÄRZEN;GOLD;Bürgerliches Brauhaus Saalfeld;Germany;Ur Saalfelder;www.brauhaus-saalfeld.de;Central European
+GERMAN-STYLE MÄRZEN;SILVER;Fürst Carl Schlossbrauerei;Germany;Fürst Carl Märzen;www.fuerst-carl.de;Central European
+GERMAN-STYLE MÄRZEN;BRONZE;Biermanufaktur Engel;Germany;ENGEL Aloisius;www.engelbier.de;Central European
+GERMAN-STYLE FESTBIER;GOLD;Gebr. Müller Müllerbräu;Germany;Müllerbräu Bio-Festbier;www.muellerbraeu.com;Central European
+GERMAN-STYLE FESTBIER;SILVER;Brauerei Rittmayer Hallerndorf;Germany;Annafestbier;www.rittmayer.de;Central European
+GERMAN-STYLE FESTBIER;BRONZE;AB Åbro Bryggeri;Sweden;Bryggmästarens Premium Gold;www.abro.se;Central European
+GERMAN-STYLE HELLES;GOLD;Brauerei Wagner GmbH;Germany;Helles;www.wagner-merkendorf.de;Central European
+GERMAN-STYLE HELLES;SILVER;Privatbrauerei Hofmann;Germany;Hofmann Helles Landbier;www.hofmann-bier.de;Central European
+GERMAN-STYLE HELLES;BRONZE;Schwarzbräu;Germany;Marie Hausbrendel Hell;www.schwarzbraeu.de;Central European
+AUSTRIAN-STYLE MÄRZEN;GOLD;Trumer Privatbrauerei;Austria;Obertrumer Märzen;www.trumer.at;Central European
+AUSTRIAN-STYLE MÄRZEN;SILVER;Stieglbrauerei zu Salzburg;Austria;Stiegl-Goldbräu;www.stiegl.at;Central European
+AUSTRIAN-STYLE MÄRZEN;BRONZE;Brauerei Hirt;Austria;Hirter Märzen;www.hirterbier.at;Central European
+INTERNATIONAL-STYLE LAGER;GOLD;pFriem Family Brewers;USA;Mexican Lager;www.pfriembeer.com;Other
+INTERNATIONAL-STYLE LAGER;SILVER;Icicle Brewing Company;USA;Icicle Premium Pilsner;www.iciclebrewing.com;Other
+INTERNATIONAL-STYLE LAGER;BRONZE;MOVA Brewing Company;Ukraine;MOVA Lager;www.mova.beer;Other
+NEW-STYLE LAGER;GOLD;50&50;Italy;SLO MO;www.50e50.beer;American
+NEW-STYLE LAGER;SILVER;Birrificio Manerba;Italy;Luppululà;www.birrificiomanerba.it;American
+NEW-STYLE LAGER;BRONZE;GIUSTOSPIRITO;Italy;SUGAMAN;www.giustospirito.com;American
+GERMAN-STYLE EXPORT;GOLD;Brauerei Fohrenburg;Austria;Fohrenburger Jubiläum;www.fohrenburger.at;Central European
+GERMAN-STYLE EXPORT;SILVER;Gräfliche Brauerei Arco-Valley;Germany;Graf Arco Export Hell;www.graf-arco.de;Central European
+GERMAN-STYLE EXPORT;BRONZE;Eder & Heylands Brauerei;Germany;Schlappeseppel Export;www.eders.de;Central European
+GERMAN-STYLE DUNKEL;GOLD;Private Landbrauerei Schönram;Germany;Original Schönramer Dunkel;www.schoenramer.de;Central European
+GERMAN-STYLE DUNKEL;SILVER;Gebr. Müller Müllerbräu;Germany;Müllerbräu Dunkel;www.muellerbraeu.com;Central European
+GERMAN-STYLE DUNKEL;BRONZE;Aktienbrauerei Kaufbeuren;Germany;ABK Urbayerisch Dunkel;www.aktienbrauerei.de;Central European
+GERMAN-STYLE SCHWARZBIER;GOLD;Störtebeker Braumanufaktur;Germany;Störtebeker Schwarz-Bier;www.stoertebeker.com;Central European
+GERMAN-STYLE SCHWARZBIER;SILVER;Privatbrauerei Fiedler;Germany;Fiedler Magisterbräu Schwarzbier;www.brauerei-fiedler.de;Central European
+GERMAN-STYLE SCHWARZBIER;BRONZE;Quarter Celtic Brewpub;USA;A Clean Pair of Schwarz;www.Quartercelticbrewpub.com;Central European
+BOHEMIAN-STYLE DARK LAGER;GOLD;Brotas Beer;Brasil;Brotas Beer Schwarzbier;www.brotasbeer.com.br;Central European
+BOHEMIAN-STYLE DARK LAGER;SILVER;Pivovar Samson;Czech Republic;Samson - Original Czech Dark Lager;www.samson.cz;Central European
+BOHEMIAN-STYLE DARK LAGER;BRONZE;Bräunlinger Löwenbrauerei;Germany;Black Lion;www.braeunlinger.de;Central European
+GERMAN-STYLE HELLER BOCK;GOLD;Gebr. Müller Müllerbräu;Germany;Müllerbräu Jubiläumsbock;www.muellerbraeu.com;Central European
+GERMAN-STYLE HELLER BOCK;SILVER;Birrificio Statalenove;Italy;ALMAMATER;www.statalenove.it;Central European
+GERMAN-STYLE HELLER BOCK;BRONZE;Wacken Brauerei;Germany;Freya - Frühjahrsbock;www.wacken.beer;Central European
+GERMAN-STYLE DUNKLER BOCK;GOLD;Browar Trzech Kumpli;Poland;Koźlak Trzech Kumpli;www.trzechkumpli.pl;Central European
+GERMAN-STYLE DUNKLER BOCK;SILVER;Brauerei Hirt;Austria;Hirter Rubin Bock;www.hirterbier.at;Central European
+GERMAN-STYLE DUNKLER BOCK;BRONZE;Hijos de Rivera;Spain;1906 Black Coupage;www.estrellagalicia.es;Central European
+GERMAN-STYLE HELLER DOPPELBOCK;GOLD;Kronenbrauerei Alfred Schimpf;Germany;Schimpf Bockbier;www.brauerei-schimpf.de;Central European
+GERMAN-STYLE HELLER DOPPELBOCK;SILVER;Brauerei-Gasthof Kundmüller;Germany;Weiherer Rolator;www.brauerei-kundmueller.de;Central European
+GERMAN-STYLE HELLER DOPPELBOCK;BRONZE;Blockbräu;Germany;Blockbräu Maibock;www.block-braeu.de;Central European
+GERMAN-STYLE DUNKLER DOPPELBOCK;GOLD;Birrificio Lambrate;Italy;Porpora;www.birrificiolambrate.com;Central European
+GERMAN-STYLE DUNKLER DOPPELBOCK;SILVER;Aktienbrauerei Kaufbeuren;Germany;ABK Doppelbock Buronator;www.aktienbrauerei.de;Central European
+GERMAN-STYLE DUNKLER DOPPELBOCK;BRONZE;Schlossbrauerei Autenried;Germany;Leonhardi Bock;www.autenrieder.de;Central European
+BELGIAN-STYLE BLOND ALE;GOLD;Brasserie St. Feuillien;Belgium;Grisette Blonde Bio;www.st-feuillien.com;Belgian
+BELGIAN-STYLE BLOND ALE;SILVER;Kazematten;Belgium;Wipers Times Blond;www.kazematten.be;Belgian
+BELGIAN-STYLE BLOND ALE;BRONZE;Bierbrouwerij De Koningshoeven;Netherlands;La Trappe Blond;www.latrappetrappist.com;Belgian
+BELGIAN-STYLE STRONG BLOND ALE;GOLD;Monkless Belgian Ales;USA;Four Devils;www.monkless.com;Belgian
+BELGIAN-STYLE STRONG BLOND ALE;SILVER;Bierbrouwerij De Magistraat;Netherlands;Questeerder;www.magistraat.beer;Belgian
+BELGIAN-STYLE STRONG BLOND ALE;BRONZE;Birrificio Manerba;Italy;The Belgian Queen;www.birrificiomanerba.it;Belgian
+BELGIAN-STYLE STRONG DARK ALE;GOLD;Bierbrouwerij De Magistraat;Netherlands;Poldermolenaar;www.magistraat.beer;Belgian
+BELGIAN-STYLE STRONG DARK ALE;SILVER;Het Anker;Belgium;Gouden Carolus Classic;www.hetanker.be;Belgian
+BELGIAN-STYLE STRONG DARK ALE;BRONZE;Brasserie St. Feuillien;Belgium;St-Feuillien Quadruple;www.st-feuillien.com;Belgian
+BELGIAN-STYLE DUBBEL;GOLD;Bierbrouwerij De Koningshoeven;Netherlands;La Trappe Dubbel;www.latrappetrappist.com;Belgian
+BELGIAN-STYLE DUBBEL;SILVER;Pintalpina;Italy;Rügen;www.pintalpina.it;Belgian
+BELGIAN-STYLE DUBBEL;BRONZE;Taxman Brewing Company;USA;Deduction;www.taxmanbrewing.com;Belgian
+BELGIAN-STYLE TRIPEL;GOLD;St.Bernardus;Belgium;St.Bernardus Tripel;www.sintbernardus.be;Belgian
+BELGIAN-STYLE TRIPEL;SILVER;Bierbrouwerij De Magistraat;Netherlands;Scheepstimmerman;www.magistraat.beer;Belgian
+BELGIAN-STYLE TRIPEL;BRONZE;Bierbrouwerij De Koningshoeven;Netherlands;La Trappe Tripel;www.latrappetrappist.com;Belgian
+GERMAN-STYLE SOUR BEER;GOLD;Bozner Weisse;Italy;Gosexy;www.batzen.it;Central European
+GERMAN-STYLE SOUR BEER;SILVER;Trueman Brewing Company;China;Haihe River Gose;www.truemanbrewing.com;Central European
+GERMAN-STYLE SOUR BEER;BRONZE;Birrificio WAR;Italy;Sapore di sale;www.birrificiowar.it;Central European
+SOUR AND FRUIT SOUR BEER;GOLD;Brewery VANUXEEM;Belgium;Queue de Charrue Vieille Brune;www.vanuxeem.com;Belgian
+SOUR AND FRUIT SOUR BEER;SILVER;Jing-A Brewing;China;Triple Berry Nectar;www.jingabrewing.com;Belgian
+SOUR AND FRUIT SOUR BEER;BRONZE;ROYAL SWINKELS;Belgium;RODENBACH Alexander;www.swinkels.com;Belgian
+FRUIT BEER;GOLD;POSTWAVE BREWING;China;Postwave Lemon Saison;www.postwave-brewing.com;Belgian
+FRUIT BEER;SILVER;Brouwerij Boon;Belgium;Framboise Boon;www.boon.be;Belgian
+FRUIT BEER;BRONZE;E.C. Dahls Bryggeri;Norway;Peach & Raspberry Beerlini;www.ecdahls.no;Belgian
+WOOD- AND BARREL-AGED SOUR BEER;GOLD;Cerveza 7 VIDAS;Peru;7 VIDAS - FLANDERS RED;www.cerveza7vidas.com;Belgian
+WOOD- AND BARREL-AGED SOUR BEER;SILVER;NBeer Craft Brewing Company;China;NBeer Niubic Barrel Aged Beijing GOSE Modern;www.nbcraftbrewing.com;Belgian
+WOOD- AND BARREL-AGED SOUR BEER;BRONZE;ROYAL SWINKELS;Belgium;RODENBACH Vintage 2022;www.swinkels.com;Belgian
+ITALIAN GRAPE ALE;GOLD;Brewine Leopoldina;Brasil;Leopoldina Italian Grape Ale Riesling;www.brewineleopoldina.com.br;Other
+ITALIAN GRAPE ALE;SILVER;Brewine Leopoldina;Brasil;Leopoldina Italian Grape Ale Gewurtraminer;www.brewineleopoldina.com.br;Other
+ITALIAN GRAPE ALE;BRONZE;50&50;Italy;GRAZIELLA;www.50e50.beer;Other
+BELGIAN-STYLE GEUZE;GOLD;Brouwerij Boon;Belgium;Oude Geuze Boon;www.boon.be;Belgian
+BELGIAN-STYLE GEUZE;SILVER;Brouwerij Boon;Belgium;Oude Geuze Boon Black Label;www.boon.be;Belgian
+BELGIAN-STYLE GEUZE;BRONZE;Brouwerij Den Herberg;Belgium;Oude Geuze Devillé;www.denherberg.be;Belgian
+BELGIAN-STYLE WITBIER;GOLD;MC77 Birrificio Artigianale;Italy;San Lorenzo;www.mc-77.com;Belgian
+BELGIAN-STYLE WITBIER;SILVER;Birrificio Manerba;Italy;Fiordalisa;www.birrificiomanerba.it;Belgian
+BELGIAN-STYLE WITBIER;BRONZE;Beha Birrificio Agricolo Artigianale;Italy;Kermesse;www.behabrewing.com;Belgian
+BELGIAN-STYLE SAISON;GOLD;Vreta Kloster Bryggeri;Sweden;Le Monde de La Bière;www.klosterbryggeri.com;Belgian
+BELGIAN-STYLE SAISON;SILVER;Birrificio del Forte;Italy;Saison del Villaggio;www.birrificiodelforte.it;Belgian
+BELGIAN-STYLE SAISON;BRONZE;Croce di Malto;Italy;TEMPORIS;www.crocedimalto.it;Belgian
+INTERNATIONAL-STYLE ALE;GOLD;Lost and Grounded Brewers;United Kingdom;Wanna Go To The Sun;www.lostandgrounded.co.uk;Other
+INTERNATIONAL-STYLE ALE;SILVER;MC77 Birrificio Artigianale;Italy;Glu Glu;www.mc-77.com;Other
+INTERNATIONAL-STYLE ALE;BRONZE;SPRING VALLEY BREWERY;Japan;Silk Ale;www.springvalleybrewery.jp;Other
+GRODZISKIE;GOLD;Browar Nieczajna, Szałpiw, Same Krafty, Smaki Piwa, Arecki;Poland;Piwo w stylu Grodziskim;www.browarnieczajna.pl;Central European
+GRODZISKIE;SILVER;Browar PINTA;Poland;A' La Grodziskie;www.browarpinta.pl;Central European
+GRODZISKIE;BRONZE;Browar Grodzisk;Poland;Piwo Grodziskie;www.browarfortuna.pl;Central European
+SESSION INDIA PALE ALE;GOLD;Brewine Leopoldina;Brasil;Leopoldina Session Ipa;www.brewineleopoldina.com.br;American
+SESSION INDIA PALE ALE;SILVER;vandeStreek bier;Netherlands;Frisky;www.vandestreekbier.nl;American
+SESSION INDIA PALE ALE;BRONZE;MC77 Birrificio Artigianale;Italy;Punto;www.mc-77.com;American
+PALE ALE;GOLD;Fifty Fifty Brewing Company;USA;C.A.P.A.;www.fiftyfiftybrewing.com;American
+PALE ALE;SILVER;50&50;Italy;KALOPSIA;www.50e50.beer;American
+PALE ALE;BRONZE;Firestone Walker Brewing Company;USA;Firestone IPA;www.firestonebeer.com;American
+INDIA PALE ALE;GOLD;Brewine Leopoldina;Brasil;Leopoldina Ipa;www.brewineleopoldina.com.br;American
+INDIA PALE ALE;SILVER;Destihl Brewery;USA;Deadhead IPA;www.destihl.com;American
+INDIA PALE ALE;BRONZE;50&50;Italy;DR. SHULTZ;www.50e50.beer;American
+HAZY INDIA PALE ALE;GOLD;Hodad's Brewing Company;USA;Turtle Town;www.hodadsbrewing.com;American
+HAZY INDIA PALE ALE;SILVER;MOVA Brewing Company;Ukraine;MOVA Hazy IPA;www.mova.beer;American
+HAZY INDIA PALE ALE;BRONZE;MC77 Birrificio Artigianale;Italy;BowTie;www.mc-77.com;American
+IMPERIAL INDIA PALE ALE;GOLD;Slowboat Brewery;China;MOON JELLY DDH DOUBLE IPA;www.slowboatbrewery.com;American
+IMPERIAL INDIA PALE ALE;SILVER;Slowboat Brewery;China;MONKEY’S FIST IMPERIAL IPA;www.slowboatbrewery.com;American
+IMPERIAL INDIA PALE ALE;BRONZE;No-Li Brewhouse;USA;Spartan Squatch;www.nolibrewhouse.com;American
+ENGLISH-STYLE BITTER;GOLD;Firestone Walker Brewing Company;USA;Double Barrel Ale;www.firestonebeer.com;British
+ENGLISH-STYLE BITTER;SILVER;Birrificio Agricolo Pagus;Italy;FRERA;www.birrapagus.it;British
+ENGLISH-STYLE BITTER;BRONZE;Birra Perugia;Italy;COSMO ROSSO;www.birraperugia.it;British
+ENGLISH-STYLE GOLDEN ALE;GOLD;RichKat Craft Brewing;China;Golden Ale;;British
+ENGLISH-STYLE GOLDEN ALE;SILVER;Birra Perugia;Italy;Golden Ale;www.birraperugia.it;British
+ENGLISH-STYLE GOLDEN ALE;BRONZE;Mastri Birrai Umbri;Italy;Monkey Summer Ale;www.mastribirraiumbri.it;British
+RED ALE;GOLD;Ottakringer Brauerei;Austria;Ottakringer Brauwerk Hellberry;www.ottakringerbrauerei.at;British
+RED ALE;SILVER;CHOPFAB BOXER;Switzerland;Chopfab Amber;www.chopfabboxer.ch;British
+RED ALE;BRONZE;Krenkerup Bryggeri;Denmark;Krenkerup Brown Ale;www.krenkerupbryggeri.dk;British
+ENGLISH-STYLE STRONG ALE;GOLD;Olde Hickory Brewery;USA;Forest Hills;www.oldehickorybrewery.com;British
+ENGLISH-STYLE STRONG ALE;SILVER;Beermaster Brewery;Ukraine;Valhalla Ticket;instagram.com.beermasterua;British
+ENGLISH-STYLE STRONG ALE;BRONZE;Olde Hickory Brewery;USA;Irish Walker;www.oldehickorybrewery.com;British
+ENGLISH-STYLE PORTER;GOLD;Brauerei Locher;Switzerland;Appenzeller Bier - Schwarzer Kristall;www.appenzellerbier.ch;British
+ENGLISH-STYLE PORTER;SILVER;Birra Puddu;Italy;Porter;www.birrapuddu.it;British
+ENGLISH-STYLE PORTER;BRONZE;Birra 100Venti;Italy;Sex Porter;www.birracentoventi.it;British
+BALTIC PORTER;GOLD;Browar Jastrzębie;Poland;Porter Bałtycki;www.browarjastrzebie.pl;British
+BALTIC PORTER;SILVER;U Tomana;Czech Republic;Baltic Porter 19;www.utomana.cz;British
+BALTIC PORTER;BRONZE;Browar Trzech Kumpli;Poland;Porter Bałtycki Trzech Kumpli;www.trzechkumpli.pl;British
+STOUT;GOLD;Urban Roots Brewing;USA;No Tricks;www.urbanrootsbrewing.com;British
+STOUT;SILVER;SPACECRAFT Brewing Company;Thailand;Event Horizon;www.spacecraft.space;British
+STOUT;BRONZE;Alexander Brewery;Israel;Alexander Black;www.alexander-beer.co.il;British
+FLAVOURED OR PASTRY STOUT;GOLD;50&50;Italy;OX&DONKEY;www.50e50.beer;British
+FLAVOURED OR PASTRY STOUT;SILVER;Trueman Brewing Company;China;Chocolate Rain Milk Imperial Stout;www.truemanbrewing.com;British
+FLAVOURED OR PASTRY STOUT;BRONZE;River North Brewery;USA;Nightmare Fuel;www.rivernorthbrewery.com;British
+IMPERIAL STOUT;GOLD;Cerveza 7 VIDAS;Peru;7 VIDAS - Russian Imperial Stout;www.cerveza7vidas.com;British
+IMPERIAL STOUT;SILVER;Molo Brew;Norway;Night Rocker;www.molobrew.no;British
+IMPERIAL STOUT;BRONZE;River North Brewery;USA;Mr. Sandman;www.rivernorthbrewery.com;British
+ALT;GOLD;Brauerei Diebels;Germany;Diebels Alt;www.diebels.de;Central European
+ALT;SILVER;Birra 100Venti;Italy;Palt Fiction;www.birracentoventi.it;Central European
+ALT;BRONZE;Hausbrauerei „Zum Schlüssel“;Germany;Original Schlüssel;www.zumschluessel.de;Central European
+SOUTH GERMAN-STYLE LEICHTES WEIZEN;GOLD;Zebra Craft Beer;China;Zebra Craft Xiao Mai Bai;www.chaojibanma.com;Central European
+SOUTH GERMAN-STYLE LEICHTES WEIZEN;SILVER;Stadtbrauerei Spalt;Germany;Spalter Weizen leicht;www.spalter-bier.de;Central European
+SOUTH GERMAN-STYLE LEICHTES WEIZEN;BRONZE;Privatbrauerei Hofmühl;Germany;Hofmühl Weißbier leicht;www.hofmuehl.de;Central European
+SOUTH GERMAN-STYLE HEFEWEIZEN HELL;GOLD;Hirsch-Brauerei Honer;Germany;Hirsch Hefe Weisse;www.hirschbrauerei.de;Central European
+SOUTH GERMAN-STYLE HEFEWEIZEN HELL;SILVER;Beijing Sonhoshin&Five Star Beer Company;China;Sonhoshin German-Style Wheat Beer;www.sonhoshin.com;Central European
+SOUTH GERMAN-STYLE HEFEWEIZEN HELL;BRONZE;Brauerei Rittmayer Hallerndorf;Germany;Rittmayer Weizen;www.rittmayer.de;Central European
+SOUTH GERMAN-STYLE HEFEWEIZEN BERNSTEINFARBEN;GOLD;Brauerei Aying Franz Inselkammer;Germany;Ayinger Urweisse;www.ayinger.de;Central European
+SOUTH GERMAN-STYLE HEFEWEIZEN BERNSTEINFARBEN;SILVER;Weissbräu Schwendl;Germany;Schwendl Ursprung;www.weissbraeu-schwendl.de;Central European
+SOUTH GERMAN-STYLE HEFEWEIZEN BERNSTEINFARBEN;BRONZE;Zum Löwenbräu;Germany;Karpfen Weisse;www.zum-loewenbraeu.de;Central European
+SOUTH GERMAN-STYLE HEFEWEIZEN DUNKEL;GOLD;Geist Brewing Company;India;Geist Uncle Dunkel;www.geist.in;Central European
+SOUTH GERMAN-STYLE HEFEWEIZEN DUNKEL;SILVER;Privatbrauerei Hofmühl;Germany;Hofmühl Hefeweizen Dunkel;www.hofmuehl.de;Central European
+SOUTH GERMAN-STYLE HEFEWEIZEN DUNKEL;BRONZE;Privatbrauerei M.C. WIENINGER;Germany;Wieninger Weißbier Dunkel;www.wieninger.de;Central European
+SOUTH GERMAN-STYLE KRISTALLWEIZEN;GOLD;Hirsch-Brauerei Honer;Germany;Hirsch Kristall Weisse;www.hirschbrauerei.de;Central European
+SOUTH GERMAN-STYLE KRISTALLWEIZEN;SILVER;Schloßbrauerei Kaltenberg;Germany;König Ludwig Weissbier Kristall;www.koenig-ludwig-brauerei.com;Central European
+SOUTH GERMAN-STYLE KRISTALLWEIZEN;BRONZE;Kronenbrauerei Alfred Schimpf;Germany;Schimpf Kristallweizen;www.brauerei-schimpf.de;Central European
+SOUTH GERMAN-STYLE WEIZENBOCK HELL;GOLD;Bayerische Staatsbrauerei Weihenstephan;Germany;Weihenstephaner Vitus;www.weihenstephaner.de;Central European
+SOUTH GERMAN-STYLE WEIZENBOCK HELL;SILVER;Brauerei Michael Plank;Germany;Plank Heller Weizenbock;www.brauerei-plank.de;Central European
+SOUTH GERMAN-STYLE WEIZENBOCK HELL;BRONZE;Brauerei S. Riegele;Germany;Riegele Augustus 8;www.riegele.de;Central European
+SOUTH GERMAN-STYLE WEIZENBOCK DUNKEL;GOLD;Schneider Weisse;Germany;TAP6 Aventinus;www.schneider-weisse.de;Central European
+SOUTH GERMAN-STYLE WEIZENBOCK DUNKEL;SILVER;Weissbräu Schwendl;Germany;Schwendl Weißbierbock;www.weissbraeu-schwendl.de;Central European
+SOUTH GERMAN-STYLE WEIZENBOCK DUNKEL;BRONZE;Privatbrauerei ERDINGER;Germany;ERDINGER Pikantus;www.erdinger.de;Central European
+NEW-STYLE HEFEWEIZEN;GOLD;Schneider Weisse;Germany;TAP5 Hopfenweisse;www.schneider-weisse.de;American
+NEW-STYLE HEFEWEIZEN;SILVER;Stieglbrauerei zu Salzburg;Austria;Stiegl-Hausbier Gipfelstürmer;www.stiegl.at;American
+NEW-STYLE HEFEWEIZEN;BRONZE;Camba Bavaria;Germany;Camba Jager Weisse;www.cambabavaria.de;American
+SMOKE BEER;GOLD;Wacken Brauerei;Germany;Surtr - Smoked Porter;www.wacken.beer;Other
+SMOKE BEER;SILVER;Cerveza 7 VIDAS;Peru;7 VIDAS - Smoked Porter;www.cerveza7vidas.com;Other
+SMOKE BEER;BRONZE;Bozner Weisse;Italy;Smoky Bock;www.batzen.it;Other
+FRANCONIAN-STYLE SMOKE BEER;GOLD;BIREN;Italy;TOSCO;www.labirrabiren.it;Central European
+FRANCONIAN-STYLE SMOKE BEER;SILVER;GIUSTOSPIRITO;Italy;MISSIS BROWN;www.giustospirito.com;Central European
+FRANCONIAN-STYLE SMOKE BEER;BRONZE;49th State Brewing;USA;Smōk;www.49thstatebrewing.com;Central European
+HERB AND SPICE BEER;GOLD;CRAFT BEER BASE;Japan;Lavender & Chamomile;www.craftbeerbase.com;Belgian
+HERB AND SPICE BEER;SILVER;URBREW Craft beer Company;China;Urbrew Longjing Jasmine Craft Beer;www.urbrew.com.cn;Belgian
+HERB AND SPICE BEER;BRONZE;Shanghai X.Meet Brewery;China;X.Meet Queen Brew Osmanthus Wheat;www.x-meetbrewery.com;Belgian
+HONEY BEER;GOLD;Elvo Brewery;Italy;claus;www.elvo.it;Belgian
+HONEY BEER;SILVER;Sinobrew;China;Sinobrew Venus Dimples Honey Beer;www.sinobrew.com.cn;Belgian
+HONEY BEER;BRONZE;CHOPFAB BOXER;Switzerland;Chopfab limited Elderflower Honey Ale;www.chopfabboxer.ch;Belgian
+GERMAN-STYLE KELLERBIER HELL;GOLD;SIMSSEER Braumanufaktur;Germany;Stephanskirchener Zwickl;www.simsseer.de;Central European
+GERMAN-STYLE KELLERBIER HELL;SILVER;Private Landbrauerei Schönram;Germany;Schönramer Zwickl;www.schoenramer.de;Central European
+GERMAN-STYLE KELLERBIER HELL;BRONZE;Kronenbrauerei Alfred Schimpf;Germany;Schimpf Urtrüb;www.brauerei-schimpf.de;Central European
+GERMAN-STYLE KELLERBIER DUNKEL;GOLD;Bottroper Bier;Germany;Bottroper Bier Dunkles;www.bottroper-bier.com;Central European
+GERMAN-STYLE KELLERBIER DUNKEL;SILVER;Camba Bavaria;Germany;Camba Dunkel;www.cambabavaria.de;Central European
+GERMAN-STYLE KELLERBIER DUNKEL;BRONZE;Ottakringer Brauerei;Austria;Ottakringer Bio-Zwickl Dunkel;www.ottakringerbrauerei.at;Central European
+GERMAN-STYLE KELLERPILS;GOLD;Hirsch-Brauerei Honer;Germany;Hirsch Zwuckl;www.hirschbrauerei.de;Central European
+GERMAN-STYLE KELLERPILS;SILVER;Birrificio Lambrate;Italy;Montestella;www.birrificiolambrate.com;Central European
+GERMAN-STYLE KELLERPILS;BRONZE;Birra Perugia;Italy;4A3;www.birraperugia.it;Central European
+BEER WITH ALTERNATIVE CEREALS;GOLD;Bierbrauerei Schrems;Austria;Schremser Bio Roggen;www.schremser.at;Other
+BEER WITH ALTERNATIVE CEREALS;SILVER;Riedenburger Brauhaus;Germany;Historisches Emmerbier;www.riedenburger.de;Other
+BEER WITH ALTERNATIVE CEREALS;BRONZE;Jopen Bier;Netherlands;Hop To Be Square;www.jopenbier.nl;Other
+VIENNA-STYLE LAGER;GOLD;Brauerei Hirt;Austria;Hirter 1270;www.hirterbier.at;Central European
+VIENNA-STYLE LAGER;SILVER;Linzer Brauerei;Austria;Linzer Bier Edelstahl;www.linzerbier.at;Central European
+VIENNA-STYLE LAGER;BRONZE;North Coast Brewing Company;USA;Laguna Baja;www.northcoastbrewing.com;Central European
+WOOD- AND BARREL-AGED STRONG BEER;GOLD;Bozner Weisse;Italy;Grand Cuvée Fumé;www.batzen.it;Other
+WOOD- AND BARREL-AGED STRONG BEER;SILVER;Daoravida Brewpub;Brasil;TERMINUS 2025;www.cervejasdaoravida.com.br;Other
+WOOD- AND BARREL-AGED STRONG BEER;BRONZE;MC77 Birrificio Artigianale;Italy;A Promise Kept;www.mc-77.com;Other
+ULTRA STRONG BEER;GOLD;Cervejaria Bamberg;Brasil;Craft Beer is Dead Weizenbock;www.cervejariabamberg.com.br;Other
+ULTRA STRONG BEER;SILVER;Browar Trzech Kumpli;Poland;Ragnar;www.trzechkumpli.pl;Other
+ULTRA STRONG BEER;BRONZE;Schneider Weisse;Germany;TAP9 Aventinus Eisbock;www.schneider-weisse.de;Other
+NON-ALCOHOLIC LAGER;GOLD;Brauerei Göller;Germany;Göller Alkoholfrei;www.brauerei-goeller.de;Other
+NON-ALCOHOLIC LAGER;SILVER;Löwenbräu;Germany;Löwenbräu Alkoholfrei;www.loewenbraeu.de;Other
+NON-ALCOHOLIC LAGER;BRONZE;Brauerei S. Riegele;Germany;Riegele Hell Alkoholfrei;www.riegele.de;Other
+NEW-STYLE NON-ALCOHOLIC LAGER;GOLD;Browar Sady;Poland;Smoke Allowed!;www.browarsady.pl;American
+NEW-STYLE NON-ALCOHOLIC LAGER;SILVER;Mashsee Brauerei;Germany;Blaufrei;www.mashsee.de;American
+NEW-STYLE NON-ALCOHOLIC LAGER;BRONZE;Koninklijke Grolsch;Netherlands;Grolsch 0.0%;www.grolsch.nl;American
+NEW-STYLE NON-ALCOHOLIC ALE;GOLD;Browar Trzech Kumpli;Poland;Stout Unplugged;www.trzechkumpli.pl;American
+NEW-STYLE NON-ALCOHOLIC ALE;SILVER;Camba Bavaria;Germany;Camba FREE IPA;www.cambabavaria.de;American
+NEW-STYLE NON-ALCOHOLIC ALE;BRONZE;FrauGruber Craft Brewing;Germany;"FrauGruber ""Lucky Liver""";www.fraugruber-craftbrewing.com;American
+NON-ALCOHOLIC HEFEWEIZEN;GOLD;Brauerei Gebr. Maisel;Germany;Maisel's Weisse Alkoholfrei;www.maisel.com;Central European
+NON-ALCOHOLIC HEFEWEIZEN;SILVER;Eder & Heylands Brauerei;Germany;Schlappeseppel Weißbier alkoholfrei;www.eders.de;Central European
+NON-ALCOHOLIC HEFEWEIZEN;BRONZE;Brauerei Rittmayer Hallerndorf;Germany;Weizen alkoholfrei;www.rittmayer.de;Central European
+EXPERIMENTAL BEER;GOLD;Stieglbrauerei zu Salzburg;Austria;Wildshut Bio Antique;www.stiegl.at;Other
+EXPERIMENTAL BEER;SILVER;Full Moon Brewworks;Thailand;POW HOWL THAIPA;www.fullmoonbrewwork.com;Other
+EXPERIMENTAL BEER;BRONZE;COEDO BREWERY;Japan;COEDO Life Brewing 30s;www.coedobrewery.com;Other
+BEER MIX BEVERAGE;GOLD;Hirsch-Brauerei Honer;Germany;Hirsch Natürliches Donau Radler Blutorange;www.hirschbrauerei.de;Other
+BEER MIX BEVERAGE;SILVER;Lammbräu Hilsenbeck;Germany;Gruibinger Halb/Halb;www.gruibinger.de;Other
+BEER MIX BEVERAGE;BRONZE;Ottakringer Brauerei;Austria;Ottakringer Citrus Radler;www.ottakringerbrauerei.at;Other
+NON-ALCOHOLIC BEER MIX BEVERAGE;GOLD;Ottakringer Brauerei;Austria;Ottakringer Null Komma Josef Radler Zitrone Minze;www.ottakringerbrauerei.at;Other
+NON-ALCOHOLIC BEER MIX BEVERAGE;SILVER;Ittinger Bier;Switzerland;Calanda Radler 0.0% Grapefruit;www.ittinger.ch;Other
+NON-ALCOHOLIC BEER MIX BEVERAGE;BRONZE;Spaten-Franziskaner Bräu;Germany;Franziskaner Weissbier Alkoholfrei Zitrone;www.spatenbraeu.de;Other
